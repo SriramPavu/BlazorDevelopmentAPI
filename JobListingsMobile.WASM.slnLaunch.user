@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "JobListingsMobile.WASM\\JobListingsMobile.WASM.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\Users\\dell\\JobListingAPI\\JobListingAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
